@@ -1,4 +1,4 @@
-j = input("Enter a character: ")
+j = input(" ")
 if((ch>='a' and ch<= 'z') or (ch>='A' and ch<='Z')):
     print(j, "is an Alphabet")
 else:
